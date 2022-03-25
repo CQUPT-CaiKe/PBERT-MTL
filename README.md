@@ -1,5 +1,5 @@
-# The code for "PRIOR-BERT AND MULTI-TASK LEARNING FOR TARGET-ASPECT-SENTIMENT JOINTDETECTION"
-Dear reviewers and TPC, in order to prevent code leakage, we guarantee that the core code will be published if the paper is accepted. Thanks for your hard work!
+# The code for "PRIOR-BERT AND MULTI-TASK LEARNING FOR TARGET-ASPECT-SENTIMENT JOINT DETECTION"
+Our paper has been accepted for presentation at IEEE ICASSP 2022 (CCF-B) (https://2022.ieeeicassp.org), which is to be held as a hybrid event in Singapore in May 2022.
 # Requirements
 Python 3.6.8
 
